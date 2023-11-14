@@ -11,8 +11,12 @@ Using React (Hook), Tailwind
     git clone https://github.com/zhengwuqingling28/tailwind-admin-dashboard.git
     ```
 1.  **Step 2.**
-    Run app
+    Install node_modules
     ```sh
     npm i
-    npm run dev
+    ```
+1.  **Step 3.**
+    Run vite react project
+    ```sh
+    npm i
     ```
