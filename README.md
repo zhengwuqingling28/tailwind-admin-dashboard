@@ -8,7 +8,6 @@ Using React (Hook), Tailwind
 1.  **Step 1.**
     Clone the project
     ```sh
-    # clone the project to your local computer
     git clone https://github.com/zhengwuqingling28/tailwind-admin-dashboard.git
     ```
 1.  **Step 2.**
