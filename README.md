@@ -18,5 +18,5 @@ Using React (Hook), Tailwind
 1.  **Step 3.**
     Run vite react project
     ```sh
-    npm i
+    npm run dev
     ```
