@@ -6,6 +6,10 @@ Using React (Hook), Tailwind
 ## 🚀 Quick start
 
 1.  **Step 1.**
+     ```sh
+    # go to project
+    cd admin-dashboard
+    ```
     Clone the project
     ```sh
     git clone https://github.com/zhengwuqingling28/tailwind-admin-dashboard.git
